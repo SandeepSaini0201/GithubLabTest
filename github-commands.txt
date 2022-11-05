@@ -1,0 +1,9 @@
+1. Initialize > git init
+2. Add > git add -A
+3. commit > git commit -m "message"
+4. push > git push (directly push in main)
+
+Git Authentication in Local (to connect local machine with cloud)
+1. install brew in local
+2. brew install gh
+3. gh auth login
